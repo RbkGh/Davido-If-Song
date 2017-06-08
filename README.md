@@ -1,7 +1,7 @@
-##Davido - If song rendered in different languages for fun with inspiration from [@threefacedcoin's](https://twitter.com/threefacedcoin) tweet [here](https://twitter.com/threefacedcoin/status/872365153358151681) just for fun
+#Davido - If song rendered in different languages for fun with inspiration from [@threefacedcoin's](https://twitter.com/threefacedcoin) tweet [here](https://twitter.com/threefacedcoin/status/872365153358151681) just for fun
 
 
-##Sample Stanza 1 - Java Version
+**Sample Stanza 1 - Java Version**
 ```
 public class DavidoIf {
 
